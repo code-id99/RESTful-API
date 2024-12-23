@@ -7,7 +7,7 @@ def get_user(user_id):
   user_data = {
     "user_id": user_id,
     "name": "Wanga Mukona",
-    "email": "john.doe@example.com"
+    "email": "wanga.muko@gmail.com"
   }
 
   extra = request.args.get("extra")
